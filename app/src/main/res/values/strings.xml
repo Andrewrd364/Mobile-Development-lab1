@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">lab 1</string>
+    <string name="TextView">Timetable for HSE FE</string>
+    <string name="EditView">input number of elements</string>
+    <string name="Button1">Button1</string>
+    <string name="Button2">Button2</string>
+    <string name="TextView2">Result: </string>
+    <string name="ToastStr">Вводимое значение должно быть в пределах от 0 до 20</string>
 </resources>
